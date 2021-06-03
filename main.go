@@ -1,2 +1,3 @@
-func main.():wq!
+package main
 
+func main() {}
